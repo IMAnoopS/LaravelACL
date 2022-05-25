@@ -1,2 +1,2 @@
 # laravelACL
-Laravel ACL with email intrigration
+Laravel ACL integration laravel
