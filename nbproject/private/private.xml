@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Anoop%20Shukla/demo/blog8/routes/web.php</file>
+            <file>file:/E:/Anoop%20Shukla/demo/blog8/app/Http/Controllers/Auth/ConfirmPasswordController.php</file>
+            <file>file:/E:/Anoop%20Shukla/demo/blog8/app/Models/User.php</file>
+            <file>file:/E:/Anoop%20Shukla/demo/blog8/resources/views/companies/create.blade.php</file>
+            <file>file:/E:/Anoop%20Shukla/demo/blog8/app/Http/Controllers/Auth/RegisterController.php</file>
+            <file>file:/E:/Anoop%20Shukla/demo/blog8/routes/api.php</file>
+            <file>file:/E:/Anoop%20Shukla/demo/blog8/resources/views/auth/login.blade.php</file>
+            <file>file:/E:/Anoop%20Shukla/demo/blog8/app/Http/Controllers/CompaniesC.php</file>
+            <file>file:/E:/Anoop%20Shukla/demo/blog8/resources/views/layouts/app.blade.php</file>
+            <file>file:/E:/Anoop%20Shukla/demo/blog8/app/Http/Controllers/UserController.php</file>
+            <file>file:/E:/Anoop%20Shukla/demo/blog8/app/Http/Controllers/Auth/ResetPasswordController.php</file>
+            <file>file:/E:/Anoop%20Shukla/demo/blog8/config/app.php</file>
+            <file>file:/E:/Anoop%20Shukla/demo/blog8/app/Http/Controllers/Auth/LoginController.php</file>
+            <file>file:/E:/Anoop%20Shukla/demo/blog8/app/Providers/AppServiceProvider.php</file>
+            <file>file:/E:/Anoop%20Shukla/demo/blog8/config/services.php</file>
+            <file>file:/E:/Anoop%20Shukla/demo/blog8/app/Http/Controllers/Auth/ForgotPasswordController.php</file>
+            <file>file:/E:/Anoop%20Shukla/demo/blog8/app/Http/Controllers/API/Auth/APILoginController.php</file>
+            <file>file:/E:/Anoop%20Shukla/demo/blog8/package.json</file>
+        </group>
+    </open-files>
+</project-private>
